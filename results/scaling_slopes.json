@@ -1,0 +1,10 @@
+{
+  "Distortion|clements|default": 1.435317252549736,
+  "Distortion|clements|place_local": 1.2525002285320426,
+  "Distortion|reck|default": 1.8593755835836836,
+  "Distortion|reck|place_local": 1.6718391711053053,
+  "Transmission loss|clements|default": 1.1146770412295512,
+  "Transmission loss|clements|place_local": 1.1220790419299091,
+  "Transmission loss|reck|default": 1.097190507989598,
+  "Transmission loss|reck|place_local": 1.0915923186375862
+}

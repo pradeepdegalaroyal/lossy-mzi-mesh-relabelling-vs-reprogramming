@@ -1,0 +1,918 @@
+{
+ "loss_sweep|f_eff|clements|0.1dB|place_local": [
+  0.021,
+  0.01
+ ],
+ "loss_sweep|f_eff|clements|0.1dB|place_local+retune": [
+  0.021,
+  0.01
+ ],
+ "loss_sweep|f_eff|clements|0.1dB|place_random": [
+  0.019,
+  0.01
+ ],
+ "loss_sweep|f_eff|clements|0.1dB|retune": [
+  0.0,
+  0.0
+ ],
+ "loss_sweep|f_eff|clements|0.25dB|place_local": [
+  0.128,
+  0.057
+ ],
+ "loss_sweep|f_eff|clements|0.25dB|place_local+retune": [
+  0.133,
+  0.063
+ ],
+ "loss_sweep|f_eff|clements|0.25dB|place_random": [
+  0.115,
+  0.058
+ ],
+ "loss_sweep|f_eff|clements|0.25dB|retune": [
+  0.002,
+  0.003
+ ],
+ "loss_sweep|f_eff|clements|0.5dB|place_local": [
+  0.498,
+  0.219
+ ],
+ "loss_sweep|f_eff|clements|0.5dB|place_local+retune": [
+  0.526,
+  0.234
+ ],
+ "loss_sweep|f_eff|clements|0.5dB|place_random": [
+  0.44,
+  0.214
+ ],
+ "loss_sweep|f_eff|clements|0.5dB|retune": [
+  0.041,
+  0.054
+ ],
+ "loss_sweep|f_eff|clements|1dB|place_local": [
+  1.773,
+  0.673
+ ],
+ "loss_sweep|f_eff|clements|1dB|place_local+retune": [
+  1.994,
+  0.709
+ ],
+ "loss_sweep|f_eff|clements|1dB|place_random": [
+  1.61,
+  0.727
+ ],
+ "loss_sweep|f_eff|clements|1dB|retune": [
+  0.523,
+  0.603
+ ],
+ "loss_sweep|f_eff|clements|2dB|place_local": [
+  6.815,
+  2.021
+ ],
+ "loss_sweep|f_eff|clements|2dB|place_local+retune": [
+  9.15,
+  3.233
+ ],
+ "loss_sweep|f_eff|clements|2dB|place_random": [
+  5.442,
+  2.135
+ ],
+ "loss_sweep|f_eff|clements|2dB|retune": [
+  4.547,
+  2.693
+ ],
+ "loss_sweep|f_eff|reck|0.1dB|place_local": [
+  0.05,
+  0.025
+ ],
+ "loss_sweep|f_eff|reck|0.1dB|place_local+retune": [
+  0.051,
+  0.025
+ ],
+ "loss_sweep|f_eff|reck|0.1dB|place_random": [
+  0.035,
+  0.013
+ ],
+ "loss_sweep|f_eff|reck|0.1dB|retune": [
+  0.0,
+  0.0
+ ],
+ "loss_sweep|f_eff|reck|0.25dB|place_local": [
+  0.325,
+  0.134
+ ],
+ "loss_sweep|f_eff|reck|0.25dB|place_local+retune": [
+  0.344,
+  0.149
+ ],
+ "loss_sweep|f_eff|reck|0.25dB|place_random": [
+  0.21,
+  0.081
+ ],
+ "loss_sweep|f_eff|reck|0.25dB|retune": [
+  0.004,
+  0.002
+ ],
+ "loss_sweep|f_eff|reck|0.5dB|place_local": [
+  1.154,
+  0.499
+ ],
+ "loss_sweep|f_eff|reck|0.5dB|place_local+retune": [
+  1.297,
+  0.593
+ ],
+ "loss_sweep|f_eff|reck|0.5dB|place_random": [
+  0.78,
+  0.304
+ ],
+ "loss_sweep|f_eff|reck|0.5dB|retune": [
+  0.08,
+  0.044
+ ],
+ "loss_sweep|f_eff|reck|1dB|place_local": [
+  3.914,
+  1.705
+ ],
+ "loss_sweep|f_eff|reck|1dB|place_local+retune": [
+  4.959,
+  2.258
+ ],
+ "loss_sweep|f_eff|reck|1dB|place_random": [
+  2.716,
+  1.108
+ ],
+ "loss_sweep|f_eff|reck|1dB|retune": [
+  1.107,
+  0.619
+ ],
+ "loss_sweep|f_eff|reck|2dB|place_local": [
+  12.327,
+  4.682
+ ],
+ "loss_sweep|f_eff|reck|2dB|place_local+retune": [
+  19.914,
+  7.102
+ ],
+ "loss_sweep|f_eff|reck|2dB|place_random": [
+  8.416,
+  3.912
+ ],
+ "loss_sweep|f_eff|reck|2dB|retune": [
+  9.285,
+  2.685
+ ],
+ "loss_sweep|eta|clements|0.1dB|place_local": [
+  0.041,
+  0.019
+ ],
+ "loss_sweep|eta|clements|0.1dB|place_local+retune": [
+  0.042,
+  0.019
+ ],
+ "loss_sweep|eta|clements|0.1dB|place_random": [
+  0.037,
+  0.019
+ ],
+ "loss_sweep|eta|clements|0.1dB|retune": [
+  0.0,
+  0.0
+ ],
+ "loss_sweep|eta|clements|0.25dB|place_local": [
+  0.244,
+  0.104
+ ],
+ "loss_sweep|eta|clements|0.25dB|place_local+retune": [
+  0.259,
+  0.119
+ ],
+ "loss_sweep|eta|clements|0.25dB|place_random": [
+  0.219,
+  0.107
+ ],
+ "loss_sweep|eta|clements|0.25dB|retune": [
+  0.005,
+  0.006
+ ],
+ "loss_sweep|eta|clements|0.5dB|place_local": [
+  0.923,
+  0.374
+ ],
+ "loss_sweep|eta|clements|0.5dB|place_local+retune": [
+  1.004,
+  0.422
+ ],
+ "loss_sweep|eta|clements|0.5dB|place_random": [
+  0.799,
+  0.361
+ ],
+ "loss_sweep|eta|clements|0.5dB|retune": [
+  0.084,
+  0.097
+ ],
+ "loss_sweep|eta|clements|1dB|place_local": [
+  3.086,
+  1.008
+ ],
+ "loss_sweep|eta|clements|1dB|place_local+retune": [
+  3.712,
+  1.119
+ ],
+ "loss_sweep|eta|clements|1dB|place_random": [
+  2.657,
+  1.041
+ ],
+ "loss_sweep|eta|clements|1dB|retune": [
+  0.976,
+  0.851
+ ],
+ "loss_sweep|eta|clements|2dB|place_local": [
+  10.764,
+  2.549
+ ],
+ "loss_sweep|eta|clements|2dB|place_local+retune": [
+  16.443,
+  5.357
+ ],
+ "loss_sweep|eta|clements|2dB|place_random": [
+  7.454,
+  2.234
+ ],
+ "loss_sweep|eta|clements|2dB|retune": [
+  7.981,
+  3.112
+ ],
+ "loss_sweep|eta|reck|0.1dB|place_local": [
+  0.096,
+  0.047
+ ],
+ "loss_sweep|eta|reck|0.1dB|place_local+retune": [
+  0.098,
+  0.049
+ ],
+ "loss_sweep|eta|reck|0.1dB|place_random": [
+  0.068,
+  0.026
+ ],
+ "loss_sweep|eta|reck|0.1dB|retune": [
+  0.0,
+  0.0
+ ],
+ "loss_sweep|eta|reck|0.25dB|place_local": [
+  0.591,
+  0.243
+ ],
+ "loss_sweep|eta|reck|0.25dB|place_local+retune": [
+  0.656,
+  0.292
+ ],
+ "loss_sweep|eta|reck|0.25dB|place_random": [
+  0.388,
+  0.151
+ ],
+ "loss_sweep|eta|reck|0.25dB|retune": [
+  0.014,
+  0.007
+ ],
+ "loss_sweep|eta|reck|0.5dB|place_local": [
+  1.926,
+  0.833
+ ],
+ "loss_sweep|eta|reck|0.5dB|place_local+retune": [
+  2.325,
+  1.056
+ ],
+ "loss_sweep|eta|reck|0.5dB|place_random": [
+  1.336,
+  0.541
+ ],
+ "loss_sweep|eta|reck|0.5dB|retune": [
+  0.277,
+  0.213
+ ],
+ "loss_sweep|eta|reck|1dB|place_local": [
+  5.399,
+  2.506
+ ],
+ "loss_sweep|eta|reck|1dB|place_local+retune": [
+  7.651,
+  3.486
+ ],
+ "loss_sweep|eta|reck|1dB|place_random": [
+  3.977,
+  1.792
+ ],
+ "loss_sweep|eta|reck|1dB|retune": [
+  2.411,
+  1.329
+ ],
+ "loss_sweep|eta|reck|2dB|place_local": [
+  12.63,
+  5.356
+ ],
+ "loss_sweep|eta|reck|2dB|place_local+retune": [
+  25.338,
+  7.802
+ ],
+ "loss_sweep|eta|reck|2dB|place_random": [
+  9.091,
+  5.05
+ ],
+ "loss_sweep|eta|reck|2dB|retune": [
+  17.365,
+  5.753
+ ],
+ "loss_sweep|f_h|clements|0.1dB|place_local": [
+  -0.02,
+  0.009
+ ],
+ "loss_sweep|f_h|clements|0.1dB|place_local+retune": [
+  -0.021,
+  0.009
+ ],
+ "loss_sweep|f_h|clements|0.1dB|place_random": [
+  -0.018,
+  0.009
+ ],
+ "loss_sweep|f_h|clements|0.1dB|retune": [
+  -0.0,
+  0.0
+ ],
+ "loss_sweep|f_h|clements|0.25dB|place_local": [
+  -0.116,
+  0.046
+ ],
+ "loss_sweep|f_h|clements|0.25dB|place_local+retune": [
+  -0.125,
+  0.055
+ ],
+ "loss_sweep|f_h|clements|0.25dB|place_random": [
+  -0.104,
+  0.048
+ ],
+ "loss_sweep|f_h|clements|0.25dB|retune": [
+  -0.003,
+  0.003
+ ],
+ "loss_sweep|f_h|clements|0.5dB|place_local": [
+  -0.415,
+  0.149
+ ],
+ "loss_sweep|f_h|clements|0.5dB|place_local+retune": [
+  -0.467,
+  0.18
+ ],
+ "loss_sweep|f_h|clements|0.5dB|place_random": [
+  -0.352,
+  0.144
+ ],
+ "loss_sweep|f_h|clements|0.5dB|retune": [
+  -0.042,
+  0.043
+ ],
+ "loss_sweep|f_h|clements|1dB|place_local": [
+  -1.216,
+  0.285
+ ],
+ "loss_sweep|f_h|clements|1dB|place_local+retune": [
+  -1.582,
+  0.356
+ ],
+ "loss_sweep|f_h|clements|1dB|place_random": [
+  -0.974,
+  0.3
+ ],
+ "loss_sweep|f_h|clements|1dB|retune": [
+  -0.427,
+  0.246
+ ],
+ "loss_sweep|f_h|clements|2dB|place_local": [
+  -3.078,
+  0.585
+ ],
+ "loss_sweep|f_h|clements|2dB|place_local+retune": [
+  -5.349,
+  1.263
+ ],
+ "loss_sweep|f_h|clements|2dB|place_random": [
+  -1.631,
+  0.537
+ ],
+ "loss_sweep|f_h|clements|2dB|retune": [
+  -2.779,
+  1.1
+ ],
+ "loss_sweep|f_h|reck|0.1dB|place_local": [
+  -0.046,
+  0.022
+ ],
+ "loss_sweep|f_h|reck|0.1dB|place_local+retune": [
+  -0.048,
+  0.024
+ ],
+ "loss_sweep|f_h|reck|0.1dB|place_random": [
+  -0.033,
+  0.013
+ ],
+ "loss_sweep|f_h|reck|0.1dB|retune": [
+  -0.0,
+  0.0
+ ],
+ "loss_sweep|f_h|reck|0.25dB|place_local": [
+  -0.263,
+  0.109
+ ],
+ "loss_sweep|f_h|reck|0.25dB|place_local+retune": [
+  -0.307,
+  0.141
+ ],
+ "loss_sweep|f_h|reck|0.25dB|place_random": [
+  -0.177,
+  0.07
+ ],
+ "loss_sweep|f_h|reck|0.25dB|retune": [
+  -0.01,
+  0.005
+ ],
+ "loss_sweep|f_h|reck|0.5dB|place_local": [
+  -0.738,
+  0.335
+ ],
+ "loss_sweep|f_h|reck|0.5dB|place_local+retune": [
+  -0.978,
+  0.437
+ ],
+ "loss_sweep|f_h|reck|0.5dB|place_random": [
+  -0.536,
+  0.235
+ ],
+ "loss_sweep|f_h|reck|0.5dB|retune": [
+  -0.193,
+  0.168
+ ],
+ "loss_sweep|f_h|reck|1dB|place_local": [
+  -1.297,
+  0.847
+ ],
+ "loss_sweep|f_h|reck|1dB|place_local+retune": [
+  -2.285,
+  1.108
+ ],
+ "loss_sweep|f_h|reck|1dB|place_random": [
+  -1.121,
+  0.662
+ ],
+ "loss_sweep|f_h|reck|1dB|retune": [
+  -1.174,
+  0.659
+ ],
+ "loss_sweep|f_h|reck|2dB|place_local": [
+  -0.211,
+  1.291
+ ],
+ "loss_sweep|f_h|reck|2dB|place_local+retune": [
+  -3.423,
+  1.798
+ ],
+ "loss_sweep|f_h|reck|2dB|place_random": [
+  -0.476,
+  1.294
+ ],
+ "loss_sweep|f_h|reck|2dB|retune": [
+  -5.366,
+  1.722
+ ],
+ "local_vs_random|f_eff_pct|clements|0.1dB": [
+  0.002,
+  0.004
+ ],
+ "local_vs_retune|f_eff_pct|clements|0.1dB": [
+  0.021,
+  0.01
+ ],
+ "local_vs_random|f_eff_pct|clements|0.25dB": [
+  0.013,
+  0.026
+ ],
+ "local_vs_retune|f_eff_pct|clements|0.25dB": [
+  0.125,
+  0.055
+ ],
+ "local_vs_random|f_eff_pct|clements|0.5dB": [
+  0.058,
+  0.093
+ ],
+ "local_vs_retune|f_eff_pct|clements|0.5dB": [
+  0.457,
+  0.184
+ ],
+ "local_vs_random|f_eff_pct|clements|1dB": [
+  0.162,
+  0.25
+ ],
+ "local_vs_retune|f_eff_pct|clements|1dB": [
+  1.244,
+  0.319
+ ],
+ "local_vs_random|f_eff_pct|clements|2dB": [
+  1.312,
+  1.39
+ ],
+ "local_vs_retune|f_eff_pct|clements|2dB": [
+  2.2,
+  2.202
+ ],
+ "multiphoton|fid2|dft|place_local|f_eff": [
+  -0.011,
+  0.021
+ ],
+ "multiphoton|p_ratio2|dft|place_local|f_eff": [
+  6.059,
+  8.92
+ ],
+ "multiphoton|fid3|dft|place_local|f_eff": [
+  -0.012,
+  0.027
+ ],
+ "multiphoton|p_ratio3|dft|place_local|f_eff": [
+  8.488,
+  11.628
+ ],
+ "multiphoton|f_eff|dft|place_local|f_eff": [
+  0.688,
+  1.235
+ ],
+ "multiphoton|eta|dft|place_local|f_eff": [
+  1.329,
+  2.366
+ ],
+ "multiphoton|f_h|dft|place_local|f_eff": [
+  -0.006,
+  0.01
+ ],
+ "multiphoton|fid2|haar|place_local|f_eff": [
+  -0.006,
+  0.013
+ ],
+ "multiphoton|p_ratio2|haar|place_local|f_eff": [
+  8.138,
+  4.601
+ ],
+ "multiphoton|fid3|haar|place_local|f_eff": [
+  -0.015,
+  0.024
+ ],
+ "multiphoton|p_ratio3|haar|place_local|f_eff": [
+  7.986,
+  14.026
+ ],
+ "multiphoton|f_eff|haar|place_local|f_eff": [
+  1.773,
+  0.673
+ ],
+ "multiphoton|eta|haar|place_local|f_eff": [
+  3.086,
+  1.008
+ ],
+ "multiphoton|f_h|haar|place_local|f_eff": [
+  -0.012,
+  0.003
+ ],
+ "multiphoton|fid2|dft|place_local|f_h": [
+  0.008,
+  0.03
+ ],
+ "multiphoton|p_ratio2|dft|place_local|f_h": [
+  -4.199,
+  6.165
+ ],
+ "multiphoton|fid3|dft|place_local|f_h": [
+  0.008,
+  0.012
+ ],
+ "multiphoton|p_ratio3|dft|place_local|f_h": [
+  -7.612,
+  7.424
+ ],
+ "multiphoton|f_eff|dft|place_local|f_h": [
+  -2.498,
+  1.441
+ ],
+ "multiphoton|eta|dft|place_local|f_h": [
+  -4.056,
+  2.015
+ ],
+ "multiphoton|f_h|dft|place_local|f_h": [
+  0.015,
+  0.006
+ ],
+ "multiphoton|fid2|haar|place_local|f_h": [
+  0.013,
+  0.019
+ ],
+ "multiphoton|p_ratio2|haar|place_local|f_h": [
+  -1.731,
+  5.353
+ ],
+ "multiphoton|fid3|haar|place_local|f_h": [
+  0.006,
+  0.011
+ ],
+ "multiphoton|p_ratio3|haar|place_local|f_h": [
+  -6.323,
+  11.975
+ ],
+ "multiphoton|f_eff|haar|place_local|f_h": [
+  -1.03,
+  0.496
+ ],
+ "multiphoton|eta|haar|place_local|f_h": [
+  -1.913,
+  0.801
+ ],
+ "multiphoton|f_h|haar|place_local|f_h": [
+  0.009,
+  0.003
+ ],
+ "multiphoton|fid2|dft|place_local+retune|f_eff": [
+  -0.017,
+  0.018
+ ],
+ "multiphoton|p_ratio2|dft|place_local+retune|f_eff": [
+  7.575,
+  8.349
+ ],
+ "multiphoton|fid3|dft|place_local+retune|f_eff": [
+  -0.018,
+  0.024
+ ],
+ "multiphoton|p_ratio3|dft|place_local+retune|f_eff": [
+  11.191,
+  11.34
+ ],
+ "multiphoton|f_eff|dft|place_local+retune|f_eff": [
+  0.888,
+  1.193
+ ],
+ "multiphoton|eta|dft|place_local+retune|f_eff": [
+  1.85,
+  2.289
+ ],
+ "multiphoton|f_h|dft|place_local+retune|f_eff": [
+  -0.009,
+  0.01
+ ],
+ "multiphoton|fid2|haar|place_local+retune|f_eff": [
+  -0.008,
+  0.014
+ ],
+ "multiphoton|p_ratio2|haar|place_local+retune|f_eff": [
+  11.003,
+  5.034
+ ],
+ "multiphoton|fid3|haar|place_local+retune|f_eff": [
+  -0.019,
+  0.024
+ ],
+ "multiphoton|p_ratio3|haar|place_local+retune|f_eff": [
+  9.962,
+  15.543
+ ],
+ "multiphoton|f_eff|haar|place_local+retune|f_eff": [
+  1.994,
+  0.709
+ ],
+ "multiphoton|eta|haar|place_local+retune|f_eff": [
+  3.712,
+  1.119
+ ],
+ "multiphoton|f_h|haar|place_local+retune|f_eff": [
+  -0.016,
+  0.004
+ ],
+ "multiphoton|fid2|dft|place_local+retune|f_h": [
+  0.012,
+  0.029
+ ],
+ "multiphoton|p_ratio2|dft|place_local+retune|f_h": [
+  -6.197,
+  5.538
+ ],
+ "multiphoton|fid3|dft|place_local+retune|f_h": [
+  0.012,
+  0.011
+ ],
+ "multiphoton|p_ratio3|dft|place_local+retune|f_h": [
+  -9.703,
+  8.918
+ ],
+ "multiphoton|f_eff|dft|place_local+retune|f_h": [
+  -2.772,
+  1.644
+ ],
+ "multiphoton|eta|dft|place_local+retune|f_h": [
+  -4.531,
+  2.277
+ ],
+ "multiphoton|f_h|dft|place_local+retune|f_h": [
+  0.018,
+  0.007
+ ],
+ "multiphoton|fid2|haar|place_local+retune|f_h": [
+  0.013,
+  0.018
+ ],
+ "multiphoton|p_ratio2|haar|place_local+retune|f_h": [
+  -2.118,
+  5.061
+ ],
+ "multiphoton|fid3|haar|place_local+retune|f_h": [
+  0.009,
+  0.009
+ ],
+ "multiphoton|p_ratio3|haar|place_local+retune|f_h": [
+  -7.398,
+  11.564
+ ],
+ "multiphoton|f_eff|haar|place_local+retune|f_h": [
+  -1.309,
+  0.57
+ ],
+ "multiphoton|eta|haar|place_local+retune|f_h": [
+  -2.374,
+  0.944
+ ],
+ "multiphoton|f_h|haar|place_local+retune|f_h": [
+  0.01,
+  0.004
+ ],
+ "multiphoton|fid2|dft|retune|f_eff": [
+  -0.006,
+  0.006
+ ],
+ "multiphoton|p_ratio2|dft|retune|f_eff": [
+  1.518,
+  0.861
+ ],
+ "multiphoton|fid3|dft|retune|f_eff": [
+  -0.005,
+  0.004
+ ],
+ "multiphoton|p_ratio3|dft|retune|f_eff": [
+  2.14,
+  1.613
+ ],
+ "multiphoton|f_eff|dft|retune|f_eff": [
+  0.174,
+  0.138
+ ],
+ "multiphoton|eta|dft|retune|f_eff": [
+  0.454,
+  0.296
+ ],
+ "multiphoton|f_h|dft|retune|f_eff": [
+  -0.003,
+  0.001
+ ],
+ "multiphoton|fid2|haar|retune|f_eff": [
+  -0.003,
+  0.003
+ ],
+ "multiphoton|p_ratio2|haar|retune|f_eff": [
+  2.173,
+  3.229
+ ],
+ "multiphoton|fid3|haar|retune|f_eff": [
+  -0.012,
+  0.01
+ ],
+ "multiphoton|p_ratio3|haar|retune|f_eff": [
+  6.399,
+  5.722
+ ],
+ "multiphoton|f_eff|haar|retune|f_eff": [
+  0.523,
+  0.603
+ ],
+ "multiphoton|eta|haar|retune|f_eff": [
+  0.976,
+  0.851
+ ],
+ "multiphoton|f_h|haar|retune|f_eff": [
+  -0.004,
+  0.002
+ ],
+ "multiphoton|fid2|dft|retune|f_h": [
+  0.005,
+  0.006
+ ],
+ "multiphoton|p_ratio2|dft|retune|f_h": [
+  -0.764,
+  2.284
+ ],
+ "multiphoton|fid3|dft|retune|f_h": [
+  0.002,
+  0.005
+ ],
+ "multiphoton|p_ratio3|dft|retune|f_h": [
+  -2.696,
+  2.347
+ ],
+ "multiphoton|f_eff|dft|retune|f_h": [
+  -0.778,
+  0.76
+ ],
+ "multiphoton|eta|dft|retune|f_h": [
+  -1.111,
+  1.061
+ ],
+ "multiphoton|f_h|dft|retune|f_h": [
+  0.003,
+  0.003
+ ],
+ "multiphoton|fid2|haar|retune|f_h": [
+  -0.0,
+  0.002
+ ],
+ "multiphoton|p_ratio2|haar|retune|f_h": [
+  -1.565,
+  1.385
+ ],
+ "multiphoton|fid3|haar|retune|f_h": [
+  0.004,
+  0.002
+ ],
+ "multiphoton|p_ratio3|haar|retune|f_h": [
+  -1.928,
+  1.607
+ ],
+ "multiphoton|f_eff|haar|retune|f_h": [
+  -0.299,
+  0.177
+ ],
+ "multiphoton|eta|haar|retune|f_h": [
+  -0.496,
+  0.236
+ ],
+ "multiphoton|f_h|haar|retune|f_h": [
+  0.002,
+  0.001
+ ],
+ "calibration|f_eff_pct|0|place_local": [
+  1.773,
+  0.673
+ ],
+ "calibration|f_eff_pct|0|place_local+retune": [
+  1.994,
+  0.709
+ ],
+ "calibration|f_eff_pct|0|retune": [
+  0.523,
+  0.603
+ ],
+ "calibration|f_eff_pct|0.25|place_local": [
+  1.846,
+  0.634
+ ],
+ "calibration|f_eff_pct|0.25|place_local+retune": [
+  2.078,
+  0.748
+ ],
+ "calibration|f_eff_pct|0.25|retune": [
+  0.525,
+  0.54
+ ],
+ "calibration|f_eff_pct|0.5|place_local": [
+  1.55,
+  0.27
+ ],
+ "calibration|f_eff_pct|0.5|place_local+retune": [
+  1.774,
+  0.438
+ ],
+ "calibration|f_eff_pct|0.5|retune": [
+  0.415,
+  0.409
+ ],
+ "calibration|f_eff_pct|1|place_local": [
+  0.761,
+  0.344
+ ],
+ "calibration|f_eff_pct|1|place_local+retune": [
+  0.309,
+  0.714
+ ],
+ "calibration|f_eff_pct|1|retune": [
+  -0.984,
+  1.972
+ ],
+ "calibration|f_eff_pct|2|place_local": [
+  0.843,
+  0.214
+ ],
+ "calibration|f_eff_pct|2|place_local+retune": [
+  -12.98,
+  7.081
+ ],
+ "calibration|f_eff_pct|2|retune": [
+  -23.942,
+  20.192
+ ]
+}

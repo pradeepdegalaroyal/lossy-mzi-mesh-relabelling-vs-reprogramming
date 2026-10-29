@@ -1,0 +1,7 @@
+[E1] loss sweep done 304s
+[E2] multiphoton done 421s
+[E3] scaling done 486s
+[E4] heat map done 554s
+[E5] ablation done 602s
+[E6] calibration done 732s
+done in 746s

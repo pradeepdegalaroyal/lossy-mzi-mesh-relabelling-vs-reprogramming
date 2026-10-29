@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Relabel or reprogram? What software can recover on a lossy photonic Mach-Zehnder-interferometer mesh"
+authors:
+  - family-names: Degala
+    given-names: Chenchupradeep
+version: 0.1.0
+date-released: 2026-10-29
+license: MIT
+repository-code: "https://github.com/pradeepdegalaroyal/lossy-mzi-mesh-relabelling-vs-reprogramming"
+abstract: "Simulation study of how much loss-inclusive fidelity port relabelling and phase re-optimisation recover on Reck and Clements Mach-Zehnder-interferometer meshes with phase-dependent per-device loss."
+keywords:
+  - photonic quantum computing
+  - Mach-Zehnder interferometer mesh
+  - optical loss
